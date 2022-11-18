@@ -37,3 +37,8 @@ npm run start
 ```
 
 Once both are running, you can connect to `http://localhost:7777` (note the port!) to interact with the chatbot. Any change to the server or client code will automatically recompile and restart the appropriate process.
+
+### Sample run
+
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/649541/202781839-861d4ae1-e7d1-4952-9b8e-0ffdd28e5f20.png">
+
